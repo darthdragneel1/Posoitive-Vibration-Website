@@ -1,0 +1,8 @@
+{
+  "name": "positive-vibration-website",
+  "version": "1.0.0",
+  "description": "Mental health services website",
+  "scripts": {
+    "dev": "npx serve -s ."
+  }
+}
